@@ -39,8 +39,12 @@ I'm passionate about building tools that are usefull, whether in the frontend, b
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,node,firebase,dart,prisma,dart" />
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,spring,java," />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sql" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,git" />
 </p>
 
 <hr>
